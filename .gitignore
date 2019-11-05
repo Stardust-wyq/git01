@@ -1,0 +1,3 @@
+# Project exclude paths
+/mybatis/target/
+/Spring_MVC/target/
